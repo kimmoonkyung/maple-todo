@@ -1,2 +1,8 @@
 # maple-todo
-aa
+
+Spring Boot
+JPA
+GRADLE
+SPRING BATCH
+AWS
+React
