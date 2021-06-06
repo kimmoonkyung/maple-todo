@@ -17,7 +17,7 @@
 > MySQL
 >   > [TB_A_USER](https://www.github.com/kimmoonkyung)
 >   > 
->   > [TB_A_BOSS]()
+>   > [TB_A_BOSS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS.md)
 >   > 
 >   > [TB_A_QUEST]()
 >   > 
