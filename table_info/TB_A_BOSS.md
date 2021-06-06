@@ -75,3 +75,4 @@ where a.id = b.boss_id
   and b.id = c.level_id
   and c.id = b.pay_id
 ```
+> ![image](https://user-images.githubusercontent.com/17442343/120922613-21c11d00-c705-11eb-8e3d-8fa8283c6d7e.png)
