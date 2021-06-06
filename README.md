@@ -23,6 +23,14 @@
 >   > [TB_A_BOSS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS.md)
 >   > 
 >   > [TB_A_BOSS_HST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_HST.md)
+>   >
+>   > [TB_A_LEVEL](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_LEVEL.md)
+>   > 
+>   > [TB_A_LEVLE_HST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_LEVEL_HST.md)
+>   >
+>   > [TB_A_PAY](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_PAY.md)
+>   > 
+>   > [TB_A_PAY_HST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_PAY_HST.md)
 >   > 
 >   > [TB_A_QUEST]()
 >   > 
