@@ -59,7 +59,7 @@ CREATE TABLE TB_A_BOSS
     CONSTRAINT  PRIMARY KEY (id)
 );
 
-ALTER TABLE TB_A_BOSS COMMENT '보스 테이블';
+ALTER TABLE TB_A_BOSS COMMENT '보스';
 ```
 
 > ![image](https://user-images.githubusercontent.com/17442343/120921713-de17e480-c6ff-11eb-9553-0cad6e900d3e.png)
