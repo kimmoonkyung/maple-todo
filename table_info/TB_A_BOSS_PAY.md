@@ -11,6 +11,8 @@
 public class BossPay {
 
     // id
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @JsonProperty("id")
     private Long id;
 
@@ -24,7 +26,7 @@ public class BossPay {
 
     // 생성일
     @JsonProperty("created_dt")
-    private Timestamp createdDt;
+    private LocalDateTime createdDt;
 
     // 변경자
     @JsonProperty("updated_by")
@@ -32,7 +34,7 @@ public class BossPay {
 
     // 변경일
     @JsonProperty("updated_dt")
-    private Timestamp updatedDt;
+    private LocalDateTime updatedDt;
 
     // 난이도ID
     @JsonProperty("level_id")
