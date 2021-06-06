@@ -48,7 +48,7 @@ public class BossLevel {
     
     // 결정석ID
     @OneToOne(mappedBy = "bossLevel")
-    private Pay pay;
+    private BossPay bossPay;
     
 
 }
