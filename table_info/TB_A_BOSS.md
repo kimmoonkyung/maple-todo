@@ -37,11 +37,7 @@ public class Boss {
     private LocalDateTime updatedDt;
     
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "boss")
-    private List<BossLevel> bossLevelList;
-    
-    @OneToMany(fetch = FetchType.LAZY, mappedBy = "boss")
-    private List<BossPay> bossPayList;
-    
+    private List<BossDetail> BossDetailList;
     
 }
 ```
