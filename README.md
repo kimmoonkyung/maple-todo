@@ -19,7 +19,7 @@
 >   > 
 >   > [TB_A_BOSS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS.md)
 >   > 
->   > [TB_A_BOSS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_HST.md)
+>   > [TB_A_BOSS_HST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_HST.md)
 >   > 
 >   > [TB_A_QUEST]()
 >   > 
