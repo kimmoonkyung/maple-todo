@@ -11,6 +11,8 @@
 public class BossLevel {
 
     // id
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @JsonProperty("id")
     private Long id;
 
