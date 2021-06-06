@@ -34,7 +34,7 @@ public class BossLevel {
 
     // 생성일
     @JsonProperty("created_dt")
-    private Timestamp createdDt;
+    private LocalDateTime createdDt;
 
     // 변경자
     @JsonProperty("updated_by")
@@ -42,7 +42,7 @@ public class BossLevel {
 
     // 변경일
     @JsonProperty("updated_dt")
-    private Timestamp updatedDt;
+    private LocalDateTime updatedDt;
 
     // 보스ID
     @ManyToOne
