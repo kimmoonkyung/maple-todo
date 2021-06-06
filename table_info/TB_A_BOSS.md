@@ -57,7 +57,7 @@ CREATE TABLE TB_A_BOSS
     `updated_by`  VARCHAR(30)    NULL        COMMENT '변경자', 
     `updated_dt`  DATETIME       NULL        COMMENT '변경일', 
     CONSTRAINT  PRIMARY KEY (id)
-);
+)ENGINE = InnoDB DEFAULT CHARACTER SET = utf8mb4 COLLATE = utf8mb4_bin;
 
 ALTER TABLE TB_A_BOSS COMMENT '보스';
 ```
