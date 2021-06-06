@@ -37,10 +37,10 @@ public class Boss {
     private Timestamp updatedDt;
     
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "boss")
-    private List<Level> levelList;
+    private List<BossLevel> bossLevelList;
     
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "boss")
-    private List<Pay> payList;
+    private List<BossPay> bossPayList;
     
     
 }
