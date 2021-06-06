@@ -1,8 +1,15 @@
 # maple-todo
 
-Spring Boot
-JPA
-GRADLE
-SPRING BATCH
-AWS
-React
+> Spring Boot
+>   
+    JPA
+    GRADLE
+    Spring Batch
+    LOMBOK
+    VALIDATION
+    AOP
+  
+  
+> AWS
+
+> React
