@@ -26,7 +26,7 @@ public class Boss {
 
     // 생성일
     @JsonProperty("created_dt")
-    private Timestamp createdDt;
+    private LocalDateTime createdDt;
 
     // 변경자
     @JsonProperty("updated_by")
@@ -34,7 +34,7 @@ public class Boss {
 
     // 변경일
     @JsonProperty("updated_dt")
-    private Timestamp updatedDt;
+    private LocalDateTime updatedDt;
     
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "boss")
     private List<BossLevel> bossLevelList;
