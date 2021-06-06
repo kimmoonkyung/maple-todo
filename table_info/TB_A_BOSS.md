@@ -63,3 +63,15 @@ ALTER TABLE TB_A_BOSS COMMENT '보스';
 ```
 
 > ![image](https://user-images.githubusercontent.com/17442343/120921713-de17e480-c6ff-11eb-9553-0cad6e900d3e.png)
+
+## 확인용 쿼리
+```sql
+select A.name, b.name, b.day_div, c.pay
+from TB_A_BOSS a
+	,TB_A_BOSS_LEVEL b
+    ,TB_A_BOSS_PAY c
+where a.id = b.boss_id
+  and a.id = c.boss_id
+  and b.id = c.level_id
+  and c.id = b.pay_id
+```
