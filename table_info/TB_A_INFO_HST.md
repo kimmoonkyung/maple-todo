@@ -63,4 +63,5 @@ COMMENT ON COLUMN TB_A_INFO_HST.HST_DT IS '변경이력일'
 ;
 ```
 
-> 
+> ![image](https://user-images.githubusercontent.com/17442343/120919431-8162fc80-c6f4-11eb-9581-1e01735c7804.png)
+
