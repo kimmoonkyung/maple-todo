@@ -19,9 +19,13 @@
 >   > 
 >   > [TB_A_BOSS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS.md)
 >   > 
+>   > [TB_A_BOSS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_HST.md)
+>   > 
 >   > [TB_A_QUEST]()
 >   > 
->   > [TB_A_INFO]()
+>   > [TB_A_INFO](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO.md)
+>   >
+>   > [TB_A_INFO_HST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO_HST.md)
 >   > 
 >   > [TB_A_ARCANE]()
 >   > 
