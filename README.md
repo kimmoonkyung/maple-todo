@@ -34,7 +34,7 @@
 >   > 
 >   > [TB_A_ARCANE]()
 >   > 
->   > [TB_U_TODO_BAS]()
+>   > [TB_U_TODO](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_TODO.md)
 >   >
 >   > [TB_U_TODO_DTL]()
 >   > 
