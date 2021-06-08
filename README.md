@@ -18,29 +18,29 @@
 > React
 
 > MySQL
->   > [TB_A_USER](https://www.github.com/kimmoonkyung)
+>   > [TB_A_USER ❗](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_USER.md)
 >   > 
 >   > [TB_A_BOSS ✓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS.md)
 >   > 
 >   > [TB_A_BOSS_DTL ✓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_DTL.md)
 >   > 
->   > [TB_A_BOSS_HST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_HST.md)
+>   > [TB_A_BOSS_HST ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_HST.md)
 >   > 
->   > [TB_A_QUEST]()
+>   > [TB_A_QUEST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_QUEST.md)
 >   > 
->   > [TB_A_INFO](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO.md)
+>   > [TB_A_INFO ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO.md)
 >   >
->   > [TB_A_INFO_HST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO_HST.md)
+>   > [TB_A_INFO_HST ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO_HST.md)
 >   > 
 >   > [TB_A_ARCANE]()
 >   > 
 >   > [TB_U_TODO](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_TODO.md)
 >   >
->   > [TB_U_TODO_DTL]()
+>   > [TB_U_TODO_DTL❓]()
 >   > 
->   > [TB_U_TODO_HST]()
+>   > [TB_U_TODO_HST❓]()
 >   > 
->   > [TB_U_TODO_통계]()
+>   > [TB_U_TODO_통계❓]()
 >   > 
 >   > [TB_U_CHARACTER]()
 >   > 
