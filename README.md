@@ -42,7 +42,7 @@
 >   > 
 >   > [TB_U_TODO_통계❓]()
 >   > 
->   > [TB_U_CHARACTER]()
+>   > [TB_U_CHARACTER](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_CHARACTER.md)
 >   > 
 
 
