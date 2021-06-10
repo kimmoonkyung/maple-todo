@@ -13,7 +13,7 @@ import javax.persistence.*;
 import java.time.LocalDateTime;
 
 // 관리자_기준정보 보스 상세
-@Table(name = "TB_A_BOSS_DETAIL")
+@Table(name = "TB_A_BOSS_DTL")
 @Data
 @Entity
 @NoArgsConstructor
