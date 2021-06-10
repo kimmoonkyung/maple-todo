@@ -68,7 +68,7 @@ public class BossDetail {
 
 # DB
 ```sql
-CREATE TABLE TB_A_BOSS_DETAIL
+CREATE TABLE TB_A_BOSS_DTL
 (
     `id`          BIGINT         NOT NULL    AUTO_INCREMENT COMMENT 'id', 
     `day_div`     VARCHAR(2)     NULL        COMMENT '주일구분', 
