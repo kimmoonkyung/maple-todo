@@ -11,6 +11,8 @@ todoName( 고민중... )
 todoClearYn
 characterId
 ```
+~~todoClearYn~~  -> DTL 에서
+
 
 > 기본 템플릿 같은 느낌으로 쓸 것, todo 일 배치시........ 
 
