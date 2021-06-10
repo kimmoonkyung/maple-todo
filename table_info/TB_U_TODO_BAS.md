@@ -17,6 +17,8 @@ characterId
 > 기본 템플릿 같은 느낌으로 쓸 것, todo 일 배치시........ 
 
 ```
+*보스 todo insert 시 일/주간 구분 나눠서 등록하게끔
+
 캐릭터 생성 후 캐릭터의 TODO를 create(db - insert) 하면 아래와 같은 테이블이 만들어지게
 ex)
 id  todoDiv   todoName        characterId
