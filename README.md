@@ -37,11 +37,12 @@
 >   > [TB_U_TODO_BAS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_TODO_BAS.md)
 >   > 일 배치 초기화 하는 기본 템플릿으로 사용 할 것임
 >   >
->   > [TB_U_TODO_DTL❓]()
->   > TB_U_TODO_DTL? VIEW? 화면에 뿌릴용도로 사용 할 것임
+>   > [TB_U_TODO_DTL❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_TODO_DTL.md)
+>   > VIEW? 화면에 뿌릴용도로 사용 할 것임
 >   > 
->   > [TB_U_TODO_HST❓]()
->   > 
+>   > [TB_U_TODO_HST❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_TODO_HST.md)
+>   > TODO Y인거 적재 및 통계용
+>   >
 >   > [TB_U_TODO_통계❓]()
 >   > 
 >   > [TB_U_CHARACTER](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_CHARACTER.md)
