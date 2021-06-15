@@ -65,7 +65,7 @@ public class BossDetail {
 
 }
 ```
-
+보스 레벨 추가(캐릭터 레벨별 추천용)
 # DB
 ```sql
 CREATE TABLE TB_A_BOSS_DTL
