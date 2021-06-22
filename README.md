@@ -32,7 +32,7 @@
 >   >
 >   > [TB_A_INFO_HST ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO_HST.md)
 >   > 
->   > [TB_A_ARCANE]()
+<!-- >   > [TB_A_ARCANE]() -->
 >   > 
 >   > [TB_U_TODO_BAS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_TODO_BAS.md)
 >   > 일 배치 초기화 하는 기본 템플릿으로 사용 할 것임
