@@ -1,6 +1,6 @@
 # maple-todo
-1. 화면 설계
-2. 프로젝트 구조 설계
+1. 
+2. 
 3. 
 
 > Spring Boot
