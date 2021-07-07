@@ -50,3 +50,15 @@
 <!-- Trigger는 JPA를 사용하면 이용 못하나 ? 엔티티 리스너를 사용해야하는것인가 비슷하지만 다른 느낌인데 -->
 
 ## Project Structure
+```
+1. domain
+    0. Entity
+    1. listener
+    2. history
+    3. request
+    4. response
+2. controller
+3. repository
+4. service
+5. support
+```
