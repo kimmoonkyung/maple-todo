@@ -51,12 +51,13 @@
 
 ## Project Structure
 ```
-1. domain
-    0. Entity
+1. model
+    Entity(ex User.class)
     1. listener
     2. history
-    3. request
-    4. response
+    3. network
+        1. request
+        2. response
 2. controller
 3. repository
 4. service
