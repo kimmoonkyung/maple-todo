@@ -48,6 +48,7 @@
 >   > [TB_U_CHARACTER](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_CHARACTER.md)
 >   > 
 <!-- Trigger는 JPA를 사용하면 이용 못하나 ? 엔티티 리스너를 사용해야하는것인가 비슷하지만 다른 느낌인데 -->
+<!-- 엔티티 리스너로 하는게 맞는 것 같음. -->
 
 
 ## Project Structure
