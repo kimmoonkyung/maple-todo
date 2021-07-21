@@ -57,6 +57,7 @@
     Entity(ex User.class)
     1. listener
     2. history
+        1. (ex Entity History)
     3. network
         1. request
         2. response
