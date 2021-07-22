@@ -41,7 +41,7 @@
 >   > VIEW? 화면에 뿌릴용도로 사용 할 것임
 >   > 
 >   > [TB_U_TODO_HST❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_TODO_HST.md)
->   > TODO Y인거 적재 및 통계용
+>   > TODO Y인거 적재 및 통계용 entity listener
 >   >
 >   > [TB_U_TODO_통계❓]()
 >   > 
