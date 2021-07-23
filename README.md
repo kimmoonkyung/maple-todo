@@ -30,8 +30,8 @@
 >   > 
 >   > [TB_A_INFO ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO.md)
 >   >
-<!-- >   > [TB_A_INFO_HST ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO_HST.md) 트리거로 사용할까 말까 ..-->
->   > 
+>   > [TB_A_INFO_HST ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO_HST.md)
+>   > entity listener
 <!-- >   > [TB_A_ARCANE]() -->
 >   > 
 >   > [TB_U_TODO_BAS](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_U_TODO_BAS.md)
