@@ -28,7 +28,8 @@
 >   > [TB_A_BOSS_DTL ✓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_DTL.md)
 >   > 
 >   > [TB_A_BOSS_HST ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_BOSS_HST.md)
->   > 
+>   > entity listener
+>   >
 >   > [TB_A_QUEST](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_QUEST.md)
 >   > 
 >   > [TB_A_INFO ❓](https://github.com/kimmoonkyung/maple-todo/blob/main/table_info/TB_A_INFO.md)
