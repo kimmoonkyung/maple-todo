@@ -1,7 +1,5 @@
 # maple-todo
-1. 
-2. 
-3. 
+
 
 > Spring Boot
 >   
